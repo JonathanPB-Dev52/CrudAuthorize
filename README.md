@@ -18,11 +18,10 @@ Dentro de mi carpeta controllers se encuentran los Empoins de mi Api Rest.
 DataAccess: 
 Se almacena mi DbContext.
 
-#### Models: 
+Models: 
 Dentro de mi carpeta Models alamcena los modelos de datos, Interfaces y Response.
 
-####Appsettings: 
+Appsettings: 
 En este archivo configuro las variables que necesito, mi conexion a base de datos y las variables para Bearer Token.
 
-
-###End
+End
